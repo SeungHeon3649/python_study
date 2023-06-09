@@ -1,1 +1,2 @@
-# python_study
+# python 기초
+# python 심화
